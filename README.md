@@ -1,4 +1,3 @@
-![image](https://monthpity.github.io/img/001.gif)
 <h1 align="center">
   <a href="https://mymonth.cn/">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=嘻嘻嘻!;月惜同学祝您今天愉快!&center=true&size=27">
@@ -13,6 +12,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monthpity)](https://github.com/anuraghazra/github-readme-stats)
 
+![image](https://monthpity.github.io/img/001-300*300.gif)
 <!--
 **Monthpity/Monthpity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
