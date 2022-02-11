@@ -2,7 +2,7 @@
 ### 你好，这里是月惜（moon-pity）同学，19岁，是学生，热爱计算机互联网，对有趣的世界和可能有趣的你充满好奇.
 <h1 align="center">
   <a href="https://mymonth.cn/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);月惜同学祝您今天愉快!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=嘻嘻嘻;月惜同学祝您今天愉快!&center=true&size=27">
   </a>
 </h1>
 
