@@ -12,7 +12,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monthpity)](https://github.com/anuraghazra/github-readme-stats)
 
-![image](https://monthpity.github.io/img/001-300*300.gif)
+![image](https://monthpity.github.io/img/001.gif)
 <!--
 **Monthpity/Monthpity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
