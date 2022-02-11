@@ -1,9 +1,7 @@
 ### Hi there 👋
 你好，这里是月惜（moon-pity）同学，19岁，是学生，热爱计算机互联网，对有趣的世界和可能有趣的你充满好奇.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Monthpity)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monthpity)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monthpity&show_icons=true&theme=radical)
 <!--
 **Monthpity/Monthpity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
