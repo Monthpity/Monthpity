@@ -11,7 +11,7 @@
 
 #### 十年前我们仰望星空，十年后我们将俯视大地，未来的天空，必将为我们留下一片灿烂的曙光！
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monthpity&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monthpity)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Monthpity/Monthpity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
