@@ -2,7 +2,7 @@
 你好，这里是月惜（moon-pity）同学，19岁，是学生，热爱计算机互联网，对有趣的世界和可能有趣的你充满好奇.
 #### It's nice to see you here
 
-[![trophy](https://github-profile-trophy.vercel.app/Monthpity=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/Monthpityryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **Monthpity/Monthpity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
