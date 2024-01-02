@@ -10,9 +10,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monthpity)](https://github.com/anuraghazra/github-readme-stats)
 
-[![MasterHead]([your image link](https://pic.imgdb.cn/item/659107dbc458853aef185d32.png)https://pic.imgdb.cn/item/659107dbc458853aef185d32.png)]([your GitHub link](https://github.com/Monthpity/)https://github.com/Monthpity/)
-
-
+[![MasterHead](https://pic.imgdb.cn/item/659107dbc458853aef185d32.png)](https://github.com/Monthpity/)
 
 
 
