@@ -29,3 +29,10 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Monthpity&rank=SSS,SS,S,AAA,AA,A,B,C&column=-1&margin-w=15&margin-h=15&theme=dark_lover&no-bg=true" />
   </div>
 
+
+  <!--Snake Code Contribution Map 贪吃蛇代码贡献图-->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+    <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
+  </picture>
